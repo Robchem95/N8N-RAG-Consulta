@@ -28,7 +28,7 @@ n8n, Pinecone,Google drive, Open AI.
 
 **Funcionamiento**
 
-En este caso se guardo un PDF en google drive, este se fragmenta (vectoriza) en pinecone, y se incrusta mediante Open AI dejo una foto del flujo:
+En este caso se guardo un PDF en google drive, este se fragmenta (vectoriza) en (pine-cone), y se incrusta mediante Open AI dejo una foto del flujo:
 
 Para este caso el chat de consulta se utilizo el nativo de n8n , pero es facilmente adaptable a whatsapp o Telgram.
 
