@@ -1,2 +1,2 @@
 # N8N-RAG-Consulta
-Este proyecto sirve como un método para consultar archivos pdf mediante un asistente virtual.
+Consulte archivos mediante un asistente virtual personalizado.
