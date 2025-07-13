@@ -30,20 +30,17 @@ n8n, Pinecone,Google drive, Open AI.
 
 En este caso se guardo un PDF en google drive
 
-<img src="https://github.com/Robchem95/N8N-RAG-Consulta/blob/main/Fotos%20flujo%20consulta%20de%20procedimientos/PDF%20en%20Google%20drive.png
-" width="300"/>
+<img src="https://github.com/Robchem95/N8N-RAG-Consulta/blob/main/Fotos%20flujo%20consulta%20de%20procedimientos/PDF%20en%20Google%20drive.png" width="300"/>
 
 Este se fragmenta (vectoriza) en (pine-cone), y se incrusta mediante Open AI dejo una foto del flujo:
 
-<img src="https://github.com/Robchem95/N8N-RAG-Consulta/blob/main/Fotos%20flujo%20consulta%20de%20procedimientos/Flujo%20n8n.png
-" width="300"/>
+<img src="https://github.com/Robchem95/N8N-RAG-Consulta/blob/main/Fotos%20flujo%20consulta%20de%20procedimientos/Flujo%20n8n.png" width="300"/>
 
 Para este caso el chat de consulta se utilizo el nativo de n8n , pero es facilmente adaptable a whatsapp o Telegram.
 
 Un ejemplo de una consulta lo pueden ver aca:
 
-<img src="https://github.com/Robchem95/N8N-RAG-Consulta/blob/main/Fotos%20flujo%20consulta%20de%20procedimientos/Consulta%20en%20n8n.png
-" width="300"/>
+<img src="https://github.com/Robchem95/N8N-RAG-Consulta/blob/main/Fotos%20flujo%20consulta%20de%20procedimientos/Consulta%20en%20n8n.png" width="300"/>
 
 <img src="https://github.com/Robchem95/N8N-RAG-Consulta/blob/main/Fotos%20flujo%20consulta%20de%20procedimientos/Texto%20en%20documento.png"/>
 
