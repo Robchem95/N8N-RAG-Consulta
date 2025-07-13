@@ -34,7 +34,7 @@ En este caso se guardo un PDF en google drive
 
 Este se fragmenta (vectoriza) en (pine-cone), y se incrusta mediante Open AI dejo una foto del flujo:
 
-<img src="https://github.com/Robchem95/N8N-RAG-Consulta/blob/main/Fotos%20flujo%20consulta%20de%20procedimientos/Flujo%20n8n.png" width="300"/>
+<img src="https://github.com/Robchem95/N8N-RAG-Consulta/blob/main/Fotos%20flujo%20consulta%20de%20procedimientos/Flujo%20n8n.png" width="800"/>
 
 Para este caso el chat de consulta se utilizo el nativo de n8n , pero es facilmente adaptable a whatsapp o Telegram.
 
